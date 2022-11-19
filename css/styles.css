@@ -27,22 +27,26 @@ h1{
 font-family: ivypresto-display, serif;
 font-weight: 300;
 font-size: 54.93px;
+font-style: italic;
 }
 h2{
   font-family: ivypresto-display, serif;
 font-weight: 300;
 font-size: 43.95px;
+font-style: italic;
 }
 h3{
 font-family: ivypresto-display, serif;
 font-weight: 300;
 font-size: 35.16px;
+font-style: italic;
 }
 
 h4{
   font-family: ivypresto-display, serif;
 font-weight: 300;
 font-size: 28.13px;
+font-style: italic;
 }
 
 p, nav a{
